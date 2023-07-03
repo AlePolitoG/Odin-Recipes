@@ -1,0 +1,19 @@
+h1 ,
+h2{
+    text-align: center;
+    color: #0B1F2590;
+}
+h2{
+    font-size: 30px;
+}
+.title{
+    font-size: 42px;
+}
+#list{
+    font-weight: 900;
+    font-size: 20px;
+}
+body{
+    background-color: #25635E;
+    font-family: "Times New Roman", sans-serif, serif;
+}
